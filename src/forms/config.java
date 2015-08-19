@@ -96,20 +96,7 @@ public class config extends javax.swing.JFrame {
      */
     public config() {
         initComponents();
-        /*String[] nList = {
-            "Selecione um componente",
-            "Campo de texto",
-            "Botao de seleçao",
-            "Botao de marcar",
-            "Lista de opçoes",
-            "Area de texto"
-        };*/
         jComboBox1.setModel((ComboBoxModel) convertToListModel(nomes_opcoes_componentes));
-        
-        if(lista_componentes.isEmpty()){
-            //botao_salvar.setEnabled(false);
-        }
-        
     }
 
     /**

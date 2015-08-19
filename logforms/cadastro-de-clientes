@@ -1,0 +1,7 @@
+<<cadastro de clientes>>
+:-:cadastro de todos os meus clientes na loja de roupas.:-:
+[Campo de texto:5(Todos os campos são Obrigatórios)]{nome|telefone|endereço|idade|cpf};
+[Botao de seleçao:4(Formas de pagamento)]{cartao|a dinheiro|a prazo|cheque};
+[Lista de opçoes:5(Selecione um tipo de roupa)]{roupa do tipo 1|roupa do tipo 2|roupa do tipo 3|roupa do tipo 4|roupa do tipo 5};
+[Botao de marcar:4(Formas de compra)]{computador|pessoalmente|celular|por telefone};
+[Area de texto:1()]{informaçoes pessoais dele.};

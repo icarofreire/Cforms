@@ -1,0 +1,7 @@
+<<cadastro das mercadorias>>
+:-:tipos de mercadorias e suas quantidaes e preços.:-:
+[Campo de texto:4(cartões:)]{nome|tipo|preço|codigo};
+[Lista de opçoes:4(cartões:)]{janeiro|março|fevereiro|dezembro};
+[Area de texto:2(cartões:)]{notas|formas de compras};
+[Campo de texto:2(cartões:)]{cliente|vendedor};
+[Lista de opçoes:2(cartões:)]{visa|master};
